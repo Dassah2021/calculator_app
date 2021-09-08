@@ -57,7 +57,8 @@
 </body>
 </html>
 
-#css
+#CSS
+
 *{
     margin: 0;
     padding: 0;
@@ -124,7 +125,8 @@ body {
 }
 
 
-#javascript
+#JAVASCRIPT
+
 var resultField = $('#result');
 function insertNumber (number) {
     var existingNumber = resultField.val()
